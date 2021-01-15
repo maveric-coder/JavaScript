@@ -121,7 +121,7 @@ var mark={
 console.log(john.bmi());
 
 */
-
+/*
 ///====================================================
 ///  Challenge 5
 
@@ -162,3 +162,15 @@ let john={
 
 
 john.tip();
+
+
+*/
+
+function myFunction() {
+    var person = prompt("Please enter your name");
+    alert("hello "+person);
+    
+    
+  }
+
+myFunction();
